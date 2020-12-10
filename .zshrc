@@ -107,7 +107,7 @@ export EDITOR='nvim'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias top="bpytop"
 alias htop="bpytop"
-alias cat="bat"
+alias less="bat"
 
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
